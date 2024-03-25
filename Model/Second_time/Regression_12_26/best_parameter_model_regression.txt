@@ -1,0 +1,9 @@
+[regression 모델 파라미터]
+colsample_bytree: 0.8
+gamma: 0
+learning_rate: 0.1
+max_depth: 2
+min_child_weight: 2
+n_estimators: 700
+random_state: 42
+subsample: 0.8

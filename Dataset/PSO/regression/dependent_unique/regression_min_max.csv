@@ -1,0 +1,14 @@
+features,min,max
+Charge,3.0,33.0
+melting_volume,500.0,1326.0
+time_diff_melt_hold,3.0,24.0
+holding_temp,1303.0,1425.0
+Metal Temp Set,677.0,1163.0
+Metal Temp,864.0,1198.0
+before_cooler_temp,20.0,46.0
+after_cooler_temp,38.0,69.0
+Waiting Time,4.8,6.0
+w_kg,131.0,38202.0
+mm/min,420.0,600.0
+w_d/w_t,10.0,12.5
+WITHDROW,59.0,60.0

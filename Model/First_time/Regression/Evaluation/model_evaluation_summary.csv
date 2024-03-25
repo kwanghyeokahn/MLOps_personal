@@ -1,0 +1,5 @@
+Model,R-squared,MAE,MAPE,RMSE
+Random Forest Regressor,1.0,0.17,0.0,0.46
+XGBoost Regressor,0.99,0.57,0.0,0.91
+MLP Regressor,0.96,1.08,0.01,1.53
+Linear Regression,-1.793754717997882e+18,39358433.22,202878.52,10103700885.45

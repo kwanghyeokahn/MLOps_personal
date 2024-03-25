@@ -1,0 +1,2 @@
+Model,R-squared,MAE,MAPE,RMSE
+XGBoost Regressor,1.0,0.35,0.0,0.55
